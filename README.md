@@ -4,7 +4,7 @@
 
 This project was made following [this tutorial](https://angular.io/tutorial) (Tour of Heroes) available on the official Angular website. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
-![home image](https://github.com/eireneof/angular-tout-of-heroes/blob/main/home.png)
+![home image](https://github.com/eireneof/angular-tour-of-heroes/blob/main/home.png)
 
 ## Development server
 
